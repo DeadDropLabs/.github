@@ -6,10 +6,10 @@
 <p align="center">
 AI • Backend • Web • Apple • Android • Infrastructure
 </p>
+
 <p align="center">
 Designing, engineering and maintaining production-grade software through specialized labs.
 </p>
----
 
 ## About
 
