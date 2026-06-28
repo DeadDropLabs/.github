@@ -1,24 +1,21 @@
 <p align="center">
-  <img src="./assets/deaddroplabs.png" alt="DeadDropLabs" width="180">
+<img src="./assets/deaddroplabs.png" alt="DeadDropLabs" width="180">
 </p>
-
 <h1 align="center">DeadDropLabs</h1>
-
-<p align="center">
-Engineering modern software through specialized labs.
-</p>
 
 <p align="center">
 AI • Backend • Web • Apple • Android • Infrastructure
 </p>
-
+<p align="center">
+Designing, engineering and maintaining production-grade software through specialized labs.
+</p>
 ---
 
 ## About
 
-DeadDropLabs is an engineering organization focused on building modern software across artificial intelligence, backend systems, native applications, web technologies and cloud infrastructure.
+DeadDropLabs is an engineering organization focused on designing, engineering and maintaining production-grade software across artificial intelligence, backend systems, native applications, web technologies and cloud infrastructure.
 
-Our goal is to build products with long-term maintainability, clean architecture and high engineering standards.
+We believe in clean architecture, native-first development, long-term maintainability and thoughtful engineering. Every project is built with a strong focus on quality, performance and developer experience.
 
 ---
 
@@ -70,8 +67,8 @@ Building and operating cloud infrastructure and deployment pipelines.
 
 ## Engineering Principles
 
-- Simplicity over complexity.
 - Clean architecture.
+- Simplicity over complexity.
 - Native-first development.
 - Performance by design.
 - Long-term maintainability.
